@@ -20,8 +20,10 @@ cabal build
 ```
 git clone git@github.com:maccam912/ppp.git
 cd ppp
-docker-compose -f docker-compose-week01.yml run client
+docker-compose -f docker-compose-week01.yml up
 ```
+
+go to: https://localhost:8009/
 
 #### Run locally
 
