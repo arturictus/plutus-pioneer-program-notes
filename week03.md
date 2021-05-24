@@ -42,11 +42,11 @@ go to: https://localhost:8009/
 
 ### Definition of ScriptContext
 
-https://github.com/input-output-hk/plutus/blob/master/plutus-ledger-api/src/Plutus/V1/Ledger/Contexts.hs#L88-L116
+(Context)[https://github.com/input-output-hk/plutus/blob/master/plutus-ledger-api/src/Plutus/V1/Ledger/Contexts.hs#L88-L116]
 
 ### Interval helpers
 
-https://github.com/input-output-hk/plutus/blob/master/plutus-ledger-api/src/Plutus/V1/Ledger/Interval.hs
+(Interval)[https://github.com/input-output-hk/plutus/blob/master/plutus-ledger-api/src/Plutus/V1/Ledger/Interval.hs]
 
 examples:
 
@@ -96,7 +96,7 @@ pubKeyHash $ walletPubKey $ Wallet 2
 
 **Lift class:**
 
-https://github.com/input-output-hk/plutus/blob/master/plutus-tx/src/PlutusTx/Lift.hs
+(Lift)[https://github.com/input-output-hk/plutus/blob/master/plutus-tx/src/PlutusTx/Lift.hs]
 
 **Diff to parameterized script:**
 
